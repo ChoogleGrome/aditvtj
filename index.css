@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto+Slab');
+
+body {
+    font-family: 'Roboto Slab', sans-serif;
+    color: #101010;
+    background-color: #bbbbbb;
+    text-align: center;
+}
+
+div.title {
+    font-size: 100px;
+}
+
+button {
+    border-color: #101010;
+    background-color: #bbbbbb;
+    font-family: 'Roboto Slab', sans-serif;
+    color: #101010;
+    font-size: 25px;
+}
+
+button:hover {
+    border-style: solid;
+    border-color: #bbbbbb;
+    transition-duration: 0.5s;
+    background-color: #101010;
+    font-family: 'Roboto Slab', sans-serif;
+    color: #bbbbbb;
+}
+
+input[type="password"] {
+    border-color: #101010;
+    background-color: #bbbbbb;
+    font-family: 'Roboto Slab', sans-serif;
+    color: #101010;
+    margin-top: 10px;
+}
